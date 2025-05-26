@@ -1,4 +1,4 @@
-import React, { ReactNode } from 'react';
+import { ReactNode } from 'react';
 import { useAuth } from '@hooks/useAuth';
 import { Link } from 'react-router-dom';
 

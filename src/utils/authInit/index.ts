@@ -1,0 +1,1 @@
+export { initializeAuth } from './authInit';
